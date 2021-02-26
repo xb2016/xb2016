@@ -1,5 +1,5 @@
 <p>
-  <a href="https://api.moedog.org/count/"><img src="https://api.moedog.org/count/@github.readme"></a>
+  <a href="https://api.moedog.org/count/"><img src="https://api.moedog.org/count/@github.readme?theme=moebooru-h"></a>
   <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
 </p>
 
