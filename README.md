@@ -1,12 +1,12 @@
 <p>
-  <a href="https://api.moedog.org/count/"><img src="https://api.moedog.org/count/@github.readme?theme=moebooru-h"></a>
+  <a target="_blank" href="https://api.moedog.org/count/"><img src="https://api.moedog.org/count/@github.readme?theme=moebooru"></a>
   <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
 </p>
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/Windows%20Server-2019-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
-[![](https://img.shields.io/badge/Mi-8%20UD-f45a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
+[![](https://img.shields.io/badge/Windows%20Server-2022-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
+[![](https://img.shields.io/badge/Mi-K40%20Pro-f45a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
@@ -23,7 +23,9 @@
 
 ⬇️**点击下方图片留言**⬇️
 
-[![](https://api.moedog.org/room/@xb2016.github/svg?width=600&height=150&limit=20&theme=light&title=xb2016@github:%20~&fontSize=13)](https://api.moedog.org/room/@xb2016.github?title=%E7%8B%97%E5%AD%90%E7%9A%84%20Github%20%E7%95%99%E8%A8%80%E6%9D%BF)
+<a target="_blank" href="https://api.moedog.org/room/@xb2016.github?title=%E7%8B%97%E5%AD%90%E7%9A%84%20Github%20%E7%95%99%E8%A8%80%E6%9D%BF">
+  <img src="https://api.moedog.org/room/@xb2016.github/svg?width=600&height=150&limit=20&theme=light&title=xb2016@github:%20~&fontSize=13">
+</a>
 
 #### Github Stats
 [![info](https://github-readme-stats.vercel.app/api?username=xb2016&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
