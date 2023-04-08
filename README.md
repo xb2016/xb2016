@@ -25,7 +25,7 @@
 [![Comments](https://api.moedog.org/room/@xb2016.github/svg?width=600&height=160&limit=20&theme=light&title=xb2016@github:%20~&fontSize=13)](https://api.moedog.org/room/@xb2016.github?title=%E7%8B%97%E5%AD%90%E7%9A%84%20Github%20%E7%95%99%E8%A8%80%E6%9D%BF)
 
 #### Github Stats
-[![Github Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=xb2016&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=xb2016&show_icons=true&line_height=20&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Top Langs
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=xb2016&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
