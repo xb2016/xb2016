@@ -1,12 +1,9 @@
-<p>
-  <img src="https://api.moedog.org/count/@github.readme?theme=moebooru">
-  <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
-</p>
+<img src="https://api.moedog.org/count/@github.readme?theme=moebooru">
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Windows%20Server-2022-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
-[![](https://img.shields.io/badge/Mi-K40%20Pro-f45a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
+[![](https://img.shields.io/badge/Mi-Turbo%204-f45a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
