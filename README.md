@@ -1,4 +1,7 @@
-<img src="https://api.moedog.org/count/@github.readme?theme=moebooru">
+<p>
+  <img src="https://api.moedog.org/count/@github.readme?theme=moebooru">
+  <img src="https://api-weather-icon.moeworld.top/weather-icon-moedog-and-xiaokong-proxy?city=%E6%9D%AD%E5%B7%9E" align="right">
+</p>
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
